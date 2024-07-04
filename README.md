@@ -18,4 +18,7 @@
 ## Mô tả
 Nhóm tìm kiếm, đọc các tài liệu, bài viết liên quan đến Acunetix trên Internet (chủ yếu là trên www.acunetix.com) để viết báo cáo, cài đặt các công cụ, lên kịch bản. Acunetix mà nhóm sử dụng là một bản CRACK mà nhóm tìm được trên CyberArsenal.
 
+## Các video liên quan
+https://drive.google.com/drive/folders/1Qvg98YsGeBRfcl8UzRtduZr20RbJVsii?usp=sharing
+
 ### P/S: Repository này không thể hiện quá trình thực hiện dự án của tôi hay của nhóm, repository này được tạo sau khi dự án môn học kết thúc bởi cá nhân tôi với mục đích lưu trữ
